@@ -1,0 +1,6 @@
+# 채팅 첨부 스크린샷과 Freebuff 작업 폴더는 저장하지 않습니다.
+.cloud-attachments/
+.freebuff/
+
+# PC 설치본을 그대로 복사한 중복 참조본입니다 (original/2.0.31_0 과 동일).
+original-installed/
